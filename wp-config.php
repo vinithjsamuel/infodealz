@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'infodea1_livedb');
+define('DB_NAME', 'asdfasdfasdfasfsdfasdfasdfasdfasdfasdf');
 
 /** MySQL database username */
-define('DB_USER', 'infodea1_infodbu');
+define('DB_USER', 'asfdasdfasdfasdfasdfasdfas');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'infodealz_dbadmin123');
+define('DB_PASSWORD', 'asdfasdfasdfasdfasdasdf1234214121234');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -59,7 +59,7 @@ define('NONCE_SALT',       '<?fCs8nEi?*C]C5I7Re#`Y+l|Jo(xl_ZXlfZ|Qd73^+.2<@suyO4
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'idealz_';
+$table_prefix  = 'asdfasdfasdfasdfasdfasdfa_';
 
 /**
  * For developers: WordPress debugging mode.
